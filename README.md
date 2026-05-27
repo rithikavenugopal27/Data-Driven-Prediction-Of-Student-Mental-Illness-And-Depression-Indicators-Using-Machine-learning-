@@ -33,29 +33,29 @@ Increased work/study hours slightly increased depression levels
 
 Machine Learning Models Used:
 
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Support Vector Classifier (SVC)
-Decision Tree
-Random Forest
-Bagging
-AdaBoost
-Naive Bayes
-Gradient Boosting
-Multi-Layer Perceptron (MLP)
-SGD
-LightGBM
-CatBoost
-XGBoost
+Logistic Regression,
+K-Nearest Neighbors (KNN),
+Support Vector Classifier (SVC),
+Decision Tree,
+Random Forest,
+Bagging,
+AdaBoost,
+Naive Bayes,
+Gradient Boosting,
+Multi-Layer Perceptron (MLP),
+Stochastic Gradient Boosting (SGD),
+LightGBM,
+CatBoost,
+XGBoost.
 
 Best Model :– CatBoost
 
 After experimenting with multiple machine learning models, CatBoost achieved the best performance:
 
-Train-Test Split: 80-20
-Accuracy: 0.8507
-Precision: 0.8542
-Recall: 0.8949
-F1-Score: 0.8741
-ROC-AUC: 0.9215
-Provides effective prediction for early depression detection among students
+Train-Test Split: 80-20,
+Accuracy: 0.8507,
+Precision: 0.8542,
+Recall: 0.8949,
+F1-Score: 0.8741,
+ROC-AUC: 0.9215,
+Helps in prediction of early depression detection among students
